@@ -16,3 +16,9 @@ Schema View
 - 
 - ![Ekran görüntüsü 2024-04-08 141534](https://github.com/Zylles/ardiuno-blink/assets/156844892/18cd7c80-8b80-4e5c-89db-e3349f6dd648)
 
+Info
+-
+- After completing the circuit above,
+- download the blink2.ino file,
+- open it with the Ardiuno Idea and upload it to Ardiuno, that's all.
+
